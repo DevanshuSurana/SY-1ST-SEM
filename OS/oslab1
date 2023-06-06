@@ -1,0 +1,9 @@
+#include <stdio.h>
+#inlcude <sys/types.h>
+#inlcude <unistd.h>
+int main()
+{
+  fork();
+	printf("hello World! \n ");
+  return 0
+}
